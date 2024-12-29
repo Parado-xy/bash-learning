@@ -25,9 +25,9 @@ A collection of Bash scripting tutorials, examples, and notes covering fundament
 - Sed and Awk - Text processing with sed and awk
 
 ### Input/Output
-- Piping & Redirection - Notes on I/O redirection
-- Input Redirection - Working with input operators
-- Test Command - Using test operators
+- Piping & Redirection - Notes on I/O redirection.
+- Input Redirection - Working with input operators.
+- Test Command - Using test operators.
 
 ## Getting Started
 The scripts can be run directly using the bash interpreter:
