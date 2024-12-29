@@ -23,6 +23,7 @@ A collection of Bash scripting tutorials, examples, and notes covering fundament
 - Commands - Command syntax and usage
 - Exit Codes - Understanding exit codes
 - Sed and Awk - Text processing with sed and awk
+- Arguments - Understanding How we can work with command line arguments for scripts.
 
 ### Input/Output
 - Piping & Redirection - Notes on I/O redirection.
